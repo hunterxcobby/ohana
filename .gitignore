@@ -1,0 +1,38 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Compiled code
+*.class
+*.o
+*.out
+
+# Environment variables
+.env
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.code-workspace
+*.iml
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# Build and distribution files
+dist/
+build/
+
+# Other generated files
+coverage/
+
