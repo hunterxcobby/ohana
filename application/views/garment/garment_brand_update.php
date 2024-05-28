@@ -5,7 +5,7 @@
 			echo form_open('garment/brand_crud/modify/'.$row->id.'',$attributes); ?>
 			
 			<div class="form-group ">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Brand ID'); ?>  : </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Food ID'); ?>  : </label>
 
 				<div class="col-sm-9">
 					<input type="text" id="cloth_id" class="form-control" required readonly value="<?php echo $row->id ;?>" />
@@ -15,7 +15,7 @@
 			<div class="space-4"></div>
 			
 			<div class="form-group">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Brand Name'); ?>  : </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Name'); ?>  : </label>
 
 				<div class="col-sm-9">
 					<input type="text" name="brand_name" class="form-control" value="<?php echo $row->brand_name ;?>" required  autofocus />
