@@ -1,5 +1,5 @@
 <?php
-$lang['laundry'] = 'Laundry Management';
+$lang['laundry'] = 'Restaurant Management';
 $lang['ver'] = 'Version 3.0';
 $lang['adminl'] = 'Enter Admin Login Information';
 $lang['username'] = 'Username';
@@ -99,7 +99,7 @@ $lang['Home'] = 'Home';
 $lang['Dashboard'] = 'Dashboard';
 $lang['Help'] = 'Help';
 $lang['Desktop'] = 'Desktop';
-$lang['Laundry Management'] = 'Laundry Management';
+$lang['Restaurant Management'] = 'Restaurant Management';
 $lang['Today Order'] = 'Today Order';
 $lang['Total Pending'] = 'Total Pending';
 $lang['Total Delivered'] = 'Total Delivered';
