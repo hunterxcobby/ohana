@@ -2,7 +2,7 @@
 	<div class="footer-inner">
 		<div class="footer-content">
 			<span class="bigger-120">
-				<span class="blue bolder"> Laundry Management Application <small> (Ver 1.2) </small> </span>
+				<span class="blue bolder"> Restaurant Management Application <small> (Ver 1.2) </small> </span>
 				 &copy; 2017 by Red Planet Computers
 			</span>
 

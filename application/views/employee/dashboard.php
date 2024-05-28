@@ -28,7 +28,7 @@
 								Dashboard
 								<small>
 									<i class="ace-icon fa fa-angle-double-right"></i>
-									Laundry Management
+									Restaurant Management
 								</small>
 							</h1>
 						</div><!-- /.page-header -->
@@ -53,10 +53,10 @@
 											endforeach; 	
 									?>
 									<strong class="red">
-										&nbsp; <br/> Laundry Management Application 
+										&nbsp; <br/> Restaurant Management Application 
 										<small>( v1.1 )</small>
 									</strong>,
-	<br/> <small> The Laundry Management Application is a very simple and Online Services with mobile and computer friendly themes development. </small> 
+	<br/> <small> The Restaurant Management Application is a very simple and Online Services with mobile and computer friendly themes development. </small> 
 								</div> -->
 
 								
