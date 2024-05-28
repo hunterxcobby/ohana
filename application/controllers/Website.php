@@ -7,7 +7,7 @@ class Website extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers / 8108702999
 	 *	date		: 03 July, 2018
-	 *	Laundry Management Application (Website Model)
+	 *	Restaurant Management Application (Website Model)
 	 *	rpcits2013@gmail.com
 	*/
  
