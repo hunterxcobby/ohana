@@ -317,7 +317,7 @@ require("header.php");
 											</label>
 										</th>
 										<th> <?php echo lang('Invoice'); ?> </th>
-										<th class="hidden-480" style="width:150px;"><?php echo lang('Laundry Store'); ?>  </th>
+										<th class="hidden-480" style="width:150px;"><?php echo lang('Restaurant Store'); ?>  </th>
 										<th><?php echo lang('Customer Name'); ?>  </th>
 										<th class="hidden-480"> <?php echo lang('Pickup Date'); ?>   </th>
 										<th class="hidden-480"><?php echo lang('Address'); ?>  </th>
