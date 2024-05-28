@@ -78,7 +78,7 @@ $lang['Reports'] = 'تقارير';
 $lang['Settings'] = 'الإعدادات';
 	$lang['General Settings'] = 'الاعدادات العامة';
 	$lang['Language'] = 'لغة';
-	$lang['Laundry Stores'] = 'محلات غسيل الملابس';
+	$lang['Restaurant Stores'] = 'محلات غسيل الملابس';
 	$lang['Admin Profile'] = 'ملف تعريف المسؤول';
 	$lang['Change Password '] = 'غير كلمة السر';
 	
@@ -105,7 +105,7 @@ $lang['Total Delivered'] = 'مجموع تسليمها';
 $lang['Total Customers'] = 'مجموع العملاء';
 $lang['Today_Pickup'] = 'أوامر بيك آب اليوم';
 $lang['Invoice'] = 'فاتورة';
-$lang['Laundry Store'] = 'محل غسيل';
+$lang['Restaurant Store'] = 'محل غسيل';
 $lang['Customer Name'] = 'اسم الزبون';
 $lang['Pickup Date'] = 'اختر تاريخا';
 $lang['Delivery Date'] = 'تاريخ التسليم او الوصول';
