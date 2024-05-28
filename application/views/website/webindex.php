@@ -300,7 +300,7 @@
 								</g>
 							</svg>
 						</div>
-						<h5 class="title">Laundry Services</h5>
+						<h5 class="title">Services</h5>
 						<p>
 							Let us pick up your dirty laundry, sort it, stains, wash, dry, fold and deliver back to you in one neat, easy package.
 						</p>

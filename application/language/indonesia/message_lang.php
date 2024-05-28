@@ -57,7 +57,7 @@ $lang['Menu'] = 'Pakaian';
 	$lang['Garment Defects'] = 'Merek Pakaian';
 	
 $lang['Services'] = 'Jasa';
-	$lang['Laundry Services'] = 'Layanan Binatu';
+	$lang['Services'] = 'Layanan Binatu';
 	$lang['Price List'] = 'Daftar Harga';
 	$lang['Discount/Charges'] = 'Diskon / Biaya';
 	$lang['Promo / Coupons'] = 'Promo / Kupon';

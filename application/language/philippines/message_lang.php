@@ -57,7 +57,7 @@ $lang['Menu'] = 'Mga damit';
 	$lang['Garment Defects'] = 'Mga elemento ng damit';
 	
 $lang['Services'] = 'Mga Serbisyo';
-	$lang['Laundry Services'] = 'Mga Serbisyo sa Paglalaba';
+	$lang['Services'] = 'Mga Serbisyo sa Paglalaba';
 	$lang['Price List'] = 'Listahan ng Presyo';
 	$lang['Discount/Charges'] = 'Discount / Charges';
 	$lang['Promo / Coupons'] = 'Promo / Mga Kupon';

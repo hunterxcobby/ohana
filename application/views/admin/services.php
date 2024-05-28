@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"><?php echo lang('Services'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Laundry Services'); ?> </li>
+				<li class="active"><?php echo lang('Services'); ?> </li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="<?php echo $helppath;?>" style="float:right;" title="Help" target="_blank"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>

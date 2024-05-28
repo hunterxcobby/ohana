@@ -57,7 +57,7 @@ $lang['Menu'] = 'الملابس';
 	$lang['Garment Defects'] = 'عيوب الملابس';
 	
 $lang['Services'] = 'خدمات';
-	$lang['Laundry Services'] = 'خدمات الغسيل';
+	$lang['Services'] = 'خدمات الغسيل';
 	$lang['Price List'] = 'قائمة الاسعار';
 	$lang['Discount/Charges'] = 'الخصم / رسوم';
 	$lang['Promo / Coupons'] = 'الترويجي / كوبونات';

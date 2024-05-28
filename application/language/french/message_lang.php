@@ -57,7 +57,7 @@ $lang['Menu'] = 'vêtement';
 	$lang['Garment Defects'] = 'Défauts du vêtement';
 	
 $lang['Services'] = 'A service';
-	$lang['Laundry Services'] = 'Services de blanchisserie';
+	$lang['Services'] = 'Services de blanchisserie';
 	$lang['Price List'] = 'Liste de prix';
 	$lang['Discount/Charges'] = 'Remise / Frais';
 	$lang['Promo / Coupons'] = 'Promo / Coupons';

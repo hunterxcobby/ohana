@@ -58,7 +58,7 @@ $lang['Menu'] = 'Menu';
 	
 $lang['Services'] = 'Services';
 $lang['Service'] = 'Services';
-	$lang['Laundry Services'] = 'Laundry Services';
+	$lang['Services'] = 'Services';
 	$lang['Price List'] = 'Laundry Price List';
 	$lang['Discount/Charges'] = 'Discount/Charges';
 	$lang['Promo / Coupons'] = 'Promo / Coupons';
@@ -236,7 +236,7 @@ $lang['defect_placehold'] = 'Fabric, Loose Button etc';
 
 /*************** Services **********************/
 $lang['Service List'] = 'Services List';
-$lang['Laundry Services'] = 'Laundry Services';
+$lang['Services'] = 'Services';
 $lang['Service Management'] = 'Service Management';
 $lang['Service ID'] = 'Service ID';
 $lang['Service Name'] = 'Service Name';

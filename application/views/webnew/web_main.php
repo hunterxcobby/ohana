@@ -75,7 +75,7 @@ p { font-size: 17px; color :000; line-height: 20px; }
         <div class="row content">
           <div class="col-lg-6">
             <h2>Speedy Wash India  <br/> <small style="color:#006bad;"> Washing and Dry Cleaning Services in Lucknow. </small> </h2>
-            <h5 style="text-align:justify;line-height:30px;">Speedy is LUCKNOW  1<sup>st</sup> Laundromat with world's best machine feels pride in providing personalized and professional laundry services to our clients. We ensure that you will be more than satisfied with our services. We promise to our clients with world-class customer care because we listen and respond to their needs. Our team extends a warm, enthusiastic, and friendly attitude to our customers.</h5>
+            <h5 style="text-align:justify;line-height:30px;">Speedy is LUCKNOW  1<sup>st</sup> Laundromat with world's best machine feels pride in providing personalized and professional Services to our clients. We ensure that you will be more than satisfied with our services. We promise to our clients with world-class customer care because we listen and respond to their needs. Our team extends a warm, enthusiastic, and friendly attitude to our customers.</h5>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p class="text-justify" style="text-align:justify;line-height:30px;">
@@ -89,7 +89,7 @@ p { font-size: 17px; color :000; line-height: 20px; }
               <li><i class="ri-check-double-line"></i> Use of environment friendly cleaning equipment and agents</li>
             </ul>
             <!-- <p class="font-italic">
-              We are the industry leaders we consistently pursuit for excellence in laundry services. We owe our success and growth to our best in the class services. We meet their specific needs by understanding your washing requirements. Our experts combine environment-friendly cleaning products and the latest technology to deliver exceptional results.
+              We are the industry leaders we consistently pursuit for excellence in Services. We owe our success and growth to our best in the class services. We meet their specific needs by understanding your washing requirements. Our experts combine environment-friendly cleaning products and the latest technology to deliver exceptional results.
             </p> -->
           </div>
         </div>
@@ -290,7 +290,7 @@ p { font-size: 17px; color :000; line-height: 20px; }
         <ul class="faq-list">
 
           <li>
-            <a data-toggle="collapse" class="" href="#faq1">How are we different from other laundry services? <i class="icofont-simple-up"></i></a>
+            <a data-toggle="collapse" class="" href="#faq1">How are we different from other Services? <i class="icofont-simple-up"></i></a>
             <div id="faq1" class="collapse show" data-parent=".faq-list">
               <p>
                 A. Free pick-up and delivery, Barcoded & Personalized tagging of Menu, Best of the chemicals, Signature laundry bags, Competitive pricing and excellent customer service are the features that set us apart.

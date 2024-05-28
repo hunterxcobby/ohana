@@ -57,7 +57,7 @@ $lang['Menu'] = 'गारमेंट्स';
 	$lang['Garment Defects'] = 'वस्त्र दोष';
 	
 $lang['Services'] = 'सेवाएं';
-	$lang['Laundry Services'] = 'धुलाई सेवाएं';
+	$lang['Services'] = 'धुलाई सेवाएं';
 	$lang['Price List'] = 'मूल्य सूची';
 	$lang['Discount/Charges'] = 'डिस्काउंट / प्रभार';
 	$lang['Promo / Coupons'] = 'प्रोमो / कूपन';
