@@ -23,7 +23,7 @@ require("header.php");
 					<?php echo lang('Desktop'); ?>  
 					<small>
 						<i class="ace-icon fa fa-angle-double-right"></i>
-						<?php echo lang('Laundry Management'); ?>  
+						<?php echo lang('Restaurant Management'); ?>  
 					</small>
 				</h1>
 			</div><!-- /.page-header -->

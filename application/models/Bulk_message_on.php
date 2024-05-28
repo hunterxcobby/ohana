@@ -3,7 +3,7 @@
 /*
  *	@author 	: Red Planet Computers / 8767228990
  *	date		: 19 Dec, 2018
- *	Laundry Management Application
+ *	Restaurant Management Application
  *	rpcits2013@gmail.com
  */
  
