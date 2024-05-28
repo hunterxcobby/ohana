@@ -6,7 +6,7 @@ class Stores extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8767228990
 	 *	date		: 08 December, 2018
-	 *	Laundry Management Application (Stores)
+	 *	Restaurant Management Application (Stores)
 	 *	rpcits2013@gmail.com
 	*/
  
