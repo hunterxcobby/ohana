@@ -6,7 +6,7 @@ class Garment extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8767228990
 	 *	date		: 15 April, 2018
-	 *	Laundry Management Application (Menu)
+	 *	Laundry Management Application (menu)
 	 *	rpcits2013@gmail.com
 	*/
  
@@ -24,7 +24,7 @@ class Garment extends CI_Controller {
 	
 	public function index()
 	{	if ($this->session->userdata('admin_login') == 0) redirect('login/logout');
-		$this->session->set_userdata('menu','garment');
+		$this->session->set_userdata('main_menu','menu');
 		$this->session->set_userdata('submenu','gar_type');
 		
 	}
@@ -33,7 +33,7 @@ class Garment extends CI_Controller {
 	
 	function gar_brand()
 	{	if ($this->session->userdata('admin_login') == 0) redirect('login/logout');
-		$this->session->set_userdata('menu','garment');
+		$this->session->set_userdata('main_menu','menu');
 		$this->session->set_userdata('submenu','gar_brand');
 		$this->db->order_by("id","desc");
 		$data['brand'] = $this->db->get('garment_brand');
@@ -41,7 +41,7 @@ class Garment extends CI_Controller {
 		$result=$this->db->select('*')->from('garment_brand')->order_by('id',"desc")->limit(1)->get()->result();
 		if (count($result) > 0)	$data['last_id'] = $result[0]->id;
 
-		$this->load->view('garment/garment_brand',$data);
+		$this->load->view('menu/garment_brand',$data);
 	}
 	
 	function brand_crud($param1='', $param2='')
@@ -54,13 +54,13 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Added Successfully"); </script>
 			<?php
-			redirect('garment/gar_brand','refresh');
+			redirect('menu/gar_brand','refresh');
 			}	
 		}
 		
 		if($param1=='do_update')
 		{	$query['brand_edit'] = $this->db->get_where('garment_brand' , array('id' => $param2) )->result();
-			$this->load->view('garment/garment_brand_update',$query);
+			$this->load->view('menu/garment_brand_update',$query);
 		}
 		
 		if ($param1 == 'modify') 
@@ -73,7 +73,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Updated Successfully"); </script>
 			<?php
-				redirect('garment/gar_brand','refresh');
+				redirect('menu/gar_brand','refresh');
 			}
 		}
 		
@@ -84,7 +84,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Deleted Successfully"); </script>
 			<?php
-			redirect('garment/gar_brand','refresh');
+			redirect('menu/gar_brand','refresh');
 			}	
 		}
 	}
@@ -94,7 +94,7 @@ class Garment extends CI_Controller {
 	
 	function gar_defect()
 	{	if ($this->session->userdata('admin_login') == 0) redirect('login/logout');
-		$this->session->set_userdata('menu','garment');
+		$this->session->set_userdata('main_menu','menu');
 		$this->session->set_userdata('submenu','gar_defects');
 		$this->db->order_by("id","desc");
 		$data['defect'] = $this->db->get('garment_defect');
@@ -102,7 +102,7 @@ class Garment extends CI_Controller {
 		$result=$this->db->select('*')->from('garment_defect')->order_by('id',"desc")->limit(1)->get()->result();
 		if (count($result) > 0)	$data['last_id'] = $result[0]->id;
 
-		$this->load->view('garment/garment_defect',$data);
+		$this->load->view('menu/garment_defect',$data);
 	}
 	
 	function defect_crud($param1='', $param2='')
@@ -115,13 +115,13 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Added Successfully"); </script>
 			<?php
-			redirect('garment/gar_defect','refresh');
+			redirect('menu/gar_defect','refresh');
 			}	
 		}
 		
 		if($param1=='do_update')
 		{	$query['defect_edit'] = $this->db->get_where('garment_defect' , array('id' => $param2) )->result();
-			$this->load->view('garment/garment_defect_update',$query);
+			$this->load->view('menu/garment_defect_update',$query);
 		}
 		
 		if ($param1 == 'modify') 
@@ -134,7 +134,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Updated Successfully"); </script>
 			<?php
-				redirect('garment/gar_defect','refresh');
+				redirect('menu/gar_defect','refresh');
 			}
 		}
 		
@@ -145,7 +145,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Deleted Successfully"); </script>
 			<?php
-			redirect('garment/gar_defect','refresh');
+			redirect('menu/gar_defect','refresh');
 			}	
 		}
 	}
@@ -154,7 +154,7 @@ class Garment extends CI_Controller {
 	
 	function gar_color()
 	{	if ($this->session->userdata('admin_login') == 0) redirect('login/logout');
-		$this->session->set_userdata('menu','garment');
+		$this->session->set_userdata('main_menu','menu');
 		$this->session->set_userdata('submenu','gar_colors');
 		$this->db->order_by("id","desc");
 		$data['color'] = $this->db->get('garment_color');
@@ -162,7 +162,7 @@ class Garment extends CI_Controller {
 		$result=$this->db->select('*')->from('garment_color')->order_by('id',"desc")->limit(1)->get()->result();
 		if (count($result) > 0)	$data['last_id'] = $result[0]->id;
 
-		$this->load->view('garment/garment_color',$data);
+		$this->load->view('menu/garment_color',$data);
 	}
 	
 	function color_crud($param1='', $param2='')
@@ -176,13 +176,13 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Added Successfully"); </script>
 			<?php
-			redirect('garment/gar_color','refresh');
+			redirect('menu/gar_color','refresh');
 			}	
 		}
 		
 		if($param1=='do_update')
 		{	$query['color_edit'] = $this->db->get_where('garment_color' , array('id' => $param2) )->result();
-			$this->load->view('garment/garment_color_update',$query);
+			$this->load->view('menu/garment_color_update',$query);
 		}
 		
 		if ($param1 == 'modify') 
@@ -195,7 +195,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Updated Successfully"); </script>
 			<?php
-				redirect('garment/gar_color','refresh');
+				redirect('menu/gar_color','refresh');
 			}
 		}
 		
@@ -206,7 +206,7 @@ class Garment extends CI_Controller {
 			?>
 			<script> alert(" Record Deleted Successfully"); </script>
 			<?php
-			redirect('garment/gar_color','refresh');
+			redirect('menu/gar_color','refresh');
 			}	
 		}
 	}

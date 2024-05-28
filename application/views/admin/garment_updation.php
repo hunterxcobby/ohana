@@ -15,7 +15,7 @@ foreach ($garment_data as $row): ?>
 			?>
 			<?php $ClothName=strtoupper($this->db->get_where('cloths' , array('id' => $row->cloth_id))->row()->cloth_type); ?>
 			
-			<?php $GarmentsInfo=$ServiceName ." ".$ClothName; ?>
+			<?php $MenuInfo=$ServiceName ." ".$ClothName; ?>
 			
 			<?php	
 			$filename="assets/stock/".$row->id.".png";

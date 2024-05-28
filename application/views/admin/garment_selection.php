@@ -17,8 +17,8 @@ foreach ($garment_data as $row): ?>
 				$ServiceUnit=ucwords($row->service_unit);
 			?>
 			<?php $ClothName=strtoupper($this->db->get_where('cloths' , array('id' => $row->cloth_id))->row()->cloth_type); ?>
-			<?php //$GarmentsInfo=$ShortCode. " ( ". $ServiceName ." ".$ClothName . ")"; ?>
-			<?php $GarmentsInfo=$ServiceName ." ".$ClothName; ?>
+			<?php //$MenuInfo=$ShortCode. " ( ". $ServiceName ." ".$ClothName . ")"; ?>
+			<?php $MenuInfo=$ServiceName ." ".$ClothName; ?>
 			
 			<?php	
 			$filename="assets/stock/".$row->id.".png";

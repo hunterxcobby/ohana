@@ -50,7 +50,7 @@ $lang['Master'] = 'رئيس';
 	$lang['Employee'] = 'موظف';
 	$lang['Expenses Type'] = 'نوع النفقات';
 	
-$lang['Garments'] = 'الملابس';
+$lang['Menu'] = 'الملابس';
 	$lang['Garment Type'] = 'نوع الملابس';
 	$lang['Garment Color'] = 'لون الملابس';
 	$lang['Garment Brand'] = 'ماركة الملابس';
@@ -203,7 +203,7 @@ $lang['Description'] = 'وصف';
 $lang['Expenses Type List'] = 'قائمة نوع المصروفات';
 /************* End Expenses Type ******************/
 
-/*************** Garments **********************/
+/*************** Menu **********************/
 $lang['Garment'] = 'الملابس';
 $lang['Garment Management'] = 'إدارة الملابس';
 $lang['Garment List'] = 'قائمة الملابس';
@@ -223,7 +223,7 @@ $lang['cloth_placehold'] = 'قميص ، سروال ، بنطلون الخ';
 $lang['brand_placehold'] = 'أديداس ، ريمون ، فيمال وغيرها';
 $lang['color_placehold'] = 'الأحمر ، جردت الخط الخ';
 $lang['defect_placehold'] = 'النسيج ، زر فضفاض الخ';
-/************* End Garments ******************/
+/************* End Menu ******************/
 
 /*************** Services **********************/
 $lang['Service Management'] = 'إدارة الخدمات';

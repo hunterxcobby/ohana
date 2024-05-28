@@ -64,7 +64,7 @@
 		</tr>
 		
 		<tr>
-		<td> <i class="menu-icon glyphicon glyphicon-tint"></i> <?php echo lang('Garments'); ?>  </td> 
+		<td> <i class="menu-icon glyphicon glyphicon-glass"></i> <?php echo lang('Menu'); ?>  </td> 
 		<td> <input type="checkbox" name="grp_perm[]" value="garment" style="height:16px; width:16px;">  </td>   </td> 
 		</tr>
 		<tr>

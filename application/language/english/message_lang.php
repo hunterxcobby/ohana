@@ -50,7 +50,7 @@ $lang['Master'] = 'Master';
 	$lang['Employee'] = 'Employee';
 	$lang['Expenses Type'] = 'Expenses Type';
 	
-$lang['Garments'] = 'Garments';
+$lang['Menu'] = 'Menu';
 	$lang['Garment Type'] = 'Garment Type';
 	$lang['Garment Color'] = 'Garment Color';
 	$lang['Garment Brand'] = 'Garment Brand';
@@ -212,7 +212,7 @@ $lang['Description'] = 'Description';
 $lang['Expenses Type List'] = 'Expenses Type List';
 /************* End Expenses Type ******************/
 
-/*************** Garments **********************/
+/*************** Menu **********************/
 $lang['Garment'] = 'Garment';
 $lang['Garment Management'] = 'Garment Management';
 $lang['Garment List'] = 'Garment List';
@@ -232,7 +232,7 @@ $lang['cloth_placehold'] = 'Shirt,Pants,Trousher etc';
 $lang['brand_placehold'] = 'Adidas, Raymond, Vimal etc';
 $lang['color_placehold'] = 'Red, Stripped Line etc';
 $lang['defect_placehold'] = 'Fabric, Loose Button etc';
-/************* End Garments ******************/
+/************* End Menu ******************/
 
 /*************** Services **********************/
 $lang['Service List'] = 'Services List';

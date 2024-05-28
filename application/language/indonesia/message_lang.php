@@ -50,7 +50,7 @@ $lang['Master'] = 'Menguasai';
 	$lang['Employee'] = 'Karyawan';
 	$lang['Expenses Type'] = 'Jenis Biaya';
 	
-$lang['Garments'] = 'Pakaian';
+$lang['Menu'] = 'Pakaian';
 	$lang['Garment Type'] = 'Jenis pakaian';
 	$lang['Garment Color'] = 'Warna Pakaian';
 	$lang['Garment Brand'] = 'Merek Pakaian';
@@ -203,7 +203,7 @@ $lang['Description'] = 'Deskripsi';
 $lang['Expenses Type List'] = 'Daftar Jenis Beban';
 /************* End Expenses Type ******************/
 
-/*************** Garments **********************/
+/*************** Menu **********************/
 $lang['Garment'] = 'Pakaian';
 $lang['Garment Management'] = 'Manajemen Pakaian';
 $lang['Garment List'] = 'Daftar Pakaian';
@@ -223,7 +223,7 @@ $lang['cloth_placehold'] = 'Kemeja, Celana, Trousher dll';
 $lang['brand_placehold'] = 'Adidas, Raymond, Vimal dll';
 $lang['color_placehold'] = 'Merah, Stripped Line, dll';
 $lang['defect_placehold'] = 'Kain, tombol longgar dll';
-/************* End Garments ******************/
+/************* End Menu ******************/
 
 /*************** Services **********************/
 $lang['Service Management'] = 'Manajemen Pelayanan';

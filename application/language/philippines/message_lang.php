@@ -50,7 +50,7 @@ $lang['Master'] = 'Master';
 	$lang['Employee'] = 'Empleado';
 	$lang['Expenses Type'] = 'Uri ng Gastos';
 	
-$lang['Garments'] = 'Mga damit';
+$lang['Menu'] = 'Mga damit';
 	$lang['Garment Type'] = 'Uri ng Kasuotan';
 	$lang['Garment Color'] = 'Kulay ng Damit';
 	$lang['Garment Brand'] = 'Mga Garment Brand';
@@ -203,7 +203,7 @@ $lang['Description'] = 'Paglalarawan';
 $lang['Expenses Type List'] = 'Listahan ng Uri ng Gastos';
 /************* End Expenses Type ******************/
 
-/*************** Garments **********************/
+/*************** Menu **********************/
 $lang['Garment'] = 'Mga damit';
 $lang['Garment Management'] = 'Pamamahala ng Mga Garment';
 $lang['Garment List'] = 'Mga damit List';
@@ -223,7 +223,7 @@ $lang['cloth_placehold'] = 'Shirt, Pantalon, Trousher atbp';
 $lang['brand_placehold'] = 'Adidas, Raymond, Vimal atbp';
 $lang['color_placehold'] = 'Red, Stripped Line atbp';
 $lang['defect_placehold'] = 'Fabric, Loose Button atbp';
-/************* End Garments ******************/
+/************* End Menu ******************/
 
 /*************** Services **********************/
 $lang['Service Management'] = 'Pamamahala ng Serbisyo';

@@ -50,7 +50,7 @@ $lang['Master'] = 'মনিব';
 	$lang['Employee'] = 'কর্মচারী';
 	$lang['Expenses Type'] = 'খরচ প্রকার';
 	
-$lang['Garments'] = 'পোষাক';
+$lang['Menu'] = 'পোষাক';
 	$lang['Garment Type'] = 'গার্মেন্টস প্রকার';
 	$lang['Garment Color'] = 'গার্মেন্টস রঙ';
 	$lang['Garment Brand'] = 'গার্মেন্টস ব্র্যান্ড';
@@ -203,7 +203,7 @@ $lang['Description'] = 'বিবরণ';
 $lang['Expenses Type List'] = 'খরচ প্রকার তালিকা';
 /************* End Expenses Type ******************/
 
-/*************** Garments **********************/
+/*************** Menu **********************/
 $lang['Garment'] = 'গার্মেন্টস';
 $lang['Garment Management'] = 'গার্মেন্টস ম্যানেজমেন্ট';
 $lang['Garment List'] = 'গার্মেন্টস তালিকা';
@@ -223,7 +223,7 @@ $lang['cloth_placehold'] = 'শার্ট, প্যান্ট, ট্রা
 $lang['brand_placehold'] = 'অ্যাডিডাস, রেমন্ড, ভিমল ইত্যাদি';
 $lang['color_placehold'] = 'লাল, স্ট্রিপড লাইন ইত্যাদি';
 $lang['defect_placehold'] = 'ফ্যাব্রিক, লুপ বোতাম ইত্যাদি';
-/************* End Garments ******************/
+/************* End Menu ******************/
 
 /*************** Services **********************/
 $lang['Service Management'] = 'সেবা ব্যবস্থাপনা';

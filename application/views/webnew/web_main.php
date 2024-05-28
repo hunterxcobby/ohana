@@ -293,7 +293,7 @@ p { font-size: 17px; color :000; line-height: 20px; }
             <a data-toggle="collapse" class="" href="#faq1">How are we different from other laundry services? <i class="icofont-simple-up"></i></a>
             <div id="faq1" class="collapse show" data-parent=".faq-list">
               <p>
-                A. Free pick-up and delivery, Barcoded & Personalized tagging of Garments, Best of the chemicals, Signature laundry bags, Competitive pricing and excellent customer service are the features that set us apart.
+                A. Free pick-up and delivery, Barcoded & Personalized tagging of Menu, Best of the chemicals, Signature laundry bags, Competitive pricing and excellent customer service are the features that set us apart.
               </p>
             </div>
           </li>

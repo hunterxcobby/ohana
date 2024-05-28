@@ -152,7 +152,7 @@ if (!empty($modelpermission))
 		</tr>
 		
 		<tr>
-		<td> <i class="menu-icon glyphicon glyphicon-tint"></i> <?php echo lang('Garments'); ?>  </td> 
+		<td> <i class="menu-icon glyphicon glyphicon-glass"></i> <?php echo lang('Menu'); ?>  </td> 
 		<td> <input type="checkbox" name="grp_perm[]"  value="garment" style="height:16px; width:16px;" <?php if (!empty($grpmodel)) { if (in_array("garment", $grpmodel)) echo "checked"; }  ?>>  </td>  </td>   
 		 
 		</tr>

@@ -381,9 +381,9 @@ $logoutmsg=lang('Logoutmsg');
 						{ if (in_array("garment", $modelpermission))  
 							{ ?>
 							<a href="#" class="dropdown-toggle">
-							<i class="menu-icon glyphicon glyphicon-tint"></i>
+							<i class="menu-icon glyphicon glyphicon-glass"></i>
 							<span class="menu-text">
-								<?php echo lang('Garments'); ?> 
+								<?php echo lang('Menu'); ?> 
 							</span>
 							<b class="arrow fa fa-angle-down"></b>
 							</a>
@@ -393,8 +393,8 @@ $logoutmsg=lang('Logoutmsg');
 							{
 							?>
 							<!-- <a href="#" onclick="alert('<?php echo lang('nopermission'); ?>')">
-							<i class="menu-icon glyphicon glyphicon-tint red"></i>
-							<span class="menu-text"> <?php echo lang('Garments'); ?>  </span>
+							<i class="menu-icon glyphicon glyphicon-glass red"></i>
+							<span class="menu-text"> <?php echo lang('Menu'); ?>  </span>
 							<b class="arrow fa fa-angle-down"></b>
 							</a> -->
 							<?php
