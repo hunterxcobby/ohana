@@ -532,7 +532,7 @@ $logoutmsg=lang('Logoutmsg');
 							<li class="<?php if($active_submenu=='packages') echo "active"; ?>">
 								<a href="<?php echo base_url();?>index.php/admin/packages">
 									<i class="menu-icon fa fa-caret-right"></i>
-									Laundry Packages
+									Packages
 								</a>
 
 								<b class="arrow"></b>
