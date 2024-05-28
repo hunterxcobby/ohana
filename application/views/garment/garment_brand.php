@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"><?php echo lang('Garment'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Garment Brand'); ?> </li>
+				<li class="active"><?php echo lang('Food Name'); ?> </li>
 			</ul><!-- /.breadcrumb -->
 			
 			<a href="#" style="float:right;" title="Help"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>	
@@ -20,7 +20,7 @@
 					<?php echo lang('Garment'); ?> 
 					<small>
 						<i class="ace-icon fa fa-angle-double-right"></i>
-						<?php echo lang('Garment Management'); ?> 
+						<?php echo lang('Food Management'); ?> 
 					</small>
 				</h1>
 			</div><!-- /.page-header -->

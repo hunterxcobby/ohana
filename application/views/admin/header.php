@@ -442,7 +442,7 @@ $logoutmsg=lang('Logoutmsg');
 							
 								<a href="<?php echo base_url();?>index.php/garment/gar_brand">
 									<i class="menu-icon fa fa-caret-right"></i>
-									<?php echo lang('Garment Brand'); ?> 
+									<?php echo lang('Food Name'); ?> 
 								</a>
 
 								<b class="arrow"></b>
