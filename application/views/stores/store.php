@@ -18,7 +18,7 @@ if (!empty($modelpermission))
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"> <?php echo lang('Settings'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Laundry Store'); ?> </li>
+				<li class="active"><?php echo lang('Restaurant Store'); ?> </li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="#" style="float:right;" title="Help"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>
