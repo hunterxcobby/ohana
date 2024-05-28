@@ -3,7 +3,7 @@
 /*
  *	@author 	: Ajit Dhanawade / 8108702999
  *	date		: 07 June, 2017
- *	Laundry Management Application
+ *	Restaurant Management Application
  *	ajitrajyash@gmail.com
  */
  

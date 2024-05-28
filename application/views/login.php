@@ -9,7 +9,7 @@ $this->session->set_userdata('site_lang', $language);
 	<head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<meta charset="utf-8" />
-		<title>Login Page - Laundry Management System</title>
+		<title>Login Page - Restaurant Management System</title>
 
 		<meta name="description" content="User login page" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
@@ -186,7 +186,7 @@ $this->session->set_userdata('site_lang', $language);
 							<span class="">
 								<div class="space-6"></div>
 								<center>
-								<span class="blue bolder"> <?php echo 'Laundry Management System &copy 2017 - '.date('Y'); ?> <a href="https://redplanetcomputers.com" target="_blank"> <br/> <span style='color:red;'> Red Planet Computers Private Limited. </span> </a>
+								<span class="blue bolder"> <?php echo 'Restaurant Management System &copy 2017 - '.date('Y'); ?> <a href="https://redplanetcomputers.com" target="_blank"> <br/> <span style='color:red;'> Red Planet Computers Private Limited. </span> </a>
 							</center> 
 							</span>
 							

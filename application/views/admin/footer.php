@@ -2,7 +2,7 @@
 	<div class="footer-inner">
 		<div class="footer-content">
 			<span class="bigger-120">
-				<span class="blue bolder"> Laundry Management System </span>
+				<span class="blue bolder"> Restaurant Management System </span>
 				 &copy; 2017-<?=date('Y')?> by Red Planet Computers Pvt Ltd
 			</span>
 
