@@ -53,7 +53,7 @@ $lang['Master'] = 'Dominar';
 $lang['Menu'] = 'paño';
 	$lang['Food Type'] = 'Tipo de ropa';
 	$lang['Garment Color'] = 'Color de la ropa';
-	$lang['Garment Brand'] = 'Marca de ropa';
+	$lang['Food Name'] = 'Marca de ropa';
 	$lang['Garment Defects'] = 'Defectos de la ropa';
 	
 $lang['Services'] = 'Servicios';
@@ -205,7 +205,7 @@ $lang['Expenses Type List'] = 'Lista de tipos de gastos';
 
 /*************** Menu **********************/
 $lang['Garment'] = 'Prenda';
-$lang['Garment Management'] = 'Vestidos';
+$lang['Food Management'] = 'Vestidos';
 $lang['Menu List'] = 'Lista de ropa';
 $lang['Menu ID'] = 'ID de la ropa';
 $lang['Food Type'] = 'Nombre de la prenda.';

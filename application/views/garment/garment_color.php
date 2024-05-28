@@ -20,7 +20,7 @@
 					<?php echo lang('Garment'); ?> 
 					<small>
 						<i class="ace-icon fa fa-angle-double-right"></i>
-						<?php echo lang('Garment Management'); ?> 
+						<?php echo lang('Food Management'); ?> 
 					</small>
 				</h1>
 			</div><!-- /.page-header -->
