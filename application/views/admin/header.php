@@ -17,7 +17,7 @@ if($MasterAdmin=="admin")
 
 }
 elseif($MasterAdmin=="store")
-{	// Laundry Store Menu Permission 
+{	// Restaurant Store Menu Permission 
 	$modelpermission=array('desktop','master','garment','services','joborder','reports');
 	
 }	
@@ -831,7 +831,7 @@ $logoutmsg=lang('Logoutmsg');
 							<li class="<?php if($active_submenu=='stores') echo "active"; ?>">
 								<a href="<?php echo base_url();?>index.php/stores">
 									<i class="menu-icon fa fa-caret-right"></i>
-									<?php echo lang('Laundry Stores'); ?>  
+									<?php echo lang('Restaurant Stores'); ?>  
 								</a>
 
 								<b class="arrow"></b>
