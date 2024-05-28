@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#">Master</a>
 				</li>
-				<li class="active">Laundry Category</li>
+				<li class="active">Category</li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="<?php echo $helppath;?>" style="float:right;" title="Help" target="_blank"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>

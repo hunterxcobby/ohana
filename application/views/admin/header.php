@@ -514,7 +514,7 @@ $logoutmsg=lang('Logoutmsg');
 							<li class="<?php if($active_submenu=='category') echo "active"; ?>">
 								<a href="<?php echo base_url();?>index.php/admin/laundry_category">
 									<i class="menu-icon fa fa-caret-right"></i>
-									Laundry Category
+									Category
 								</a>
 
 								<b class="arrow"></b>

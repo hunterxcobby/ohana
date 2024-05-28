@@ -62,7 +62,7 @@
 													<div class="pull-right tableTools-container"></div>
 												</div> -->
 												<div class="table-header" style="background:#A069C3!important;">
-													Laundry Category List 
+													Category List 
 												</div>
 
 												<!-- div.table-responsive -->
@@ -182,7 +182,7 @@
 										<?php $attributes = array('class' => 'form-horizontal', 'id' => 'cloth_form','enctype' => 'multipart/form-data');
 										echo form_open('admin/service_crud/create',$attributes); ?>
 										<div class="table-header" style="background:#69AA46!important;">
-													New Laundry Category Record 
+													New Category Record 
 												</div> <br/>
 										<div class="form-group ">
 											<label class="col-sm-3 control-label no-padding-right" for="service_id"> Category ID : </label>

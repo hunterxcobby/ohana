@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#">Master</a>
 				</li>
-				<li class="active">Laundry Category</li>
+				<li class="active">Category</li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="<?php echo $helppath;?>" style="float:right;" title="Help" target="_blank"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>
@@ -183,7 +183,7 @@
 										<?php $attributes = array('class' => 'form-horizontal', 'id' => 'category_form','enctype' => 'multipart/form-data');
 										echo form_open('admin/category_crud/create',$attributes); ?>
 										<div class="table-header" style="background:#69AA46!important;">
-													New Laundry Category 
+													New Category 
 												</div> <br/>
 										<div class="form-group ">
 											<label class="col-sm-3 control-label no-padding-right" for="service_id"> Category ID : </label>
