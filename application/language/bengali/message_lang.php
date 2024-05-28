@@ -78,7 +78,7 @@ $lang['Reports'] = 'প্রতিবেদন';
 $lang['Settings'] = 'সেটিংস';
 	$lang['General Settings'] = 'সাধারণ সেটিংস';
 	$lang['Language'] = 'ভাষা';
-	$lang['Laundry Stores'] = 'লন্ড্রি স্টোর';
+	$lang['Restaurant Stores'] = 'লন্ড্রি স্টোর';
 	$lang['Admin Profile'] = 'অ্যাডমিন প্রোফাইল';
 	$lang['Change Password '] = 'পাসওয়ার্ড পরিবর্তন করুন';
 	
@@ -105,7 +105,7 @@ $lang['Total Delivered'] = 'মোট ডেলিভারি';
 $lang['Total Customers'] = 'মোট গ্রাহক';
 $lang['Today_Pickup'] = 'আজ পিকআপ অর্ডার';
 $lang['Invoice'] = 'চালান';
-$lang['Laundry Store'] = 'লন্ড্রি দোকান';
+$lang['Restaurant Store'] = 'লন্ড্রি দোকান';
 $lang['Customer Name'] = 'ক্রেতার নাম';
 $lang['Pickup Date'] = 'ক্রেতার নাম';
 $lang['Delivery Date'] = 'প্রসবের তারিখ';
