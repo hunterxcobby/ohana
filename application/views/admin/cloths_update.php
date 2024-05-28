@@ -5,7 +5,7 @@
 			echo form_open('admin/cloth_crud/modify/'.$row->id.'',$attributes); ?>
 			
 			<div class="form-group ">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Garment ID'); ?>  : </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Menu ID'); ?>  : </label>
 
 				<div class="col-sm-9">
 					<input type="text" id="cloth_id" class="form-control" required readonly value="<?php echo $row->id ;?>" />
@@ -15,7 +15,7 @@
 			<div class="space-4"></div>
 			
 			<div class="form-group">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <span style="font-size:12px;"> <?php echo lang('Garment Name'); ?> (English) : </span> </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <span style="font-size:12px;"> <?php echo lang('Food Type'); ?> (English) : </span> </label>
 
 				<div class="col-sm-9">
 					<input type="text" name="cloth_name" class="form-control" value="<?php echo $row->cloth_type ;?>" required  autofocus />
@@ -25,7 +25,7 @@
 		
 			<!--
 			<div class="form-group">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <span style="font-size:12px;"> <?php echo lang('Garment Name'); ?> (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </span> </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <span style="font-size:12px;"> <?php echo lang('Food Type'); ?> (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </span> </label>
 
 				<div class="col-sm-9">
 					<input type="text" name="cloth_name_lang" class="form-control" value="<?php echo $row->cloth_type_lang ;?>"  />

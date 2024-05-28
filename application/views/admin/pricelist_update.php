@@ -56,7 +56,7 @@
 
 
 			<div class="form-group">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Garment Type'); ?>  : </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  : </label>
 
 				<div class="col-sm-9">
 					<select class="chosen-select form-control" name="cloth_name" id="cloth_name" data-placeholder="Choose a Services..." required>

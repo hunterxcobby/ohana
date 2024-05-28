@@ -5,9 +5,9 @@
 			<ul class="breadcrumb">
 				<li>
 					<i class="ace-icon fa fa-home home-icon"></i>
-					<a href="#"><?php echo lang('Garment'); ?> </a>
+					<a href="#"><?php echo lang('Menu'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Garment Type'); ?>  </li>
+				<li class="active"><?php echo lang('Food Type'); ?>  </li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="<?php echo $helppath;?>" style="float:right;" title="Help" target="_blank"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>
@@ -17,10 +17,10 @@
 			
 			<div class="page-header ">
 				<h1 class="hidden-480" >
-					<?php echo lang('Garment'); ?> 
+					<?php echo lang('Menu'); ?> 
 					<small>
 						<i class="ace-icon fa fa-angle-double-right"></i>
-						<?php echo lang('Garment Management '); ?> 
+						<?php echo lang('Emnu Management '); ?> 
 					</small>
 				</h1>
 			</div><!-- /.page-header -->
@@ -35,7 +35,7 @@
 									<li class="active">
 										<a data-toggle="tab" href="#list">
 											<i class="purple ace-icon fa fa-list bigger-120"></i>
-											<?php echo lang('Garment List'); ?>  
+											<?php echo lang('Menu List'); ?>  
 										</a>
 									</li>
 
@@ -62,7 +62,7 @@
 													<div class="pull-right tableTools-container"></div>
 												</div> 
 												<div class="table-header" style="background:#A069C3!important;">
-													<?php echo lang('Garment List '); ?> 
+													<?php echo lang('Menu List '); ?> 
 												</div>
 
 												<!-- div.table-responsive -->
@@ -81,8 +81,8 @@
 																<th><?php echo lang('Sr.No.'); ?> </th>
 																
 																<!-- <th > Image </th> -->
-																<th><?php echo lang('Garment'); ?>(English)  </th>
-															<!--	<th><?php echo lang('Garment'); ?> (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) </th> -->
+																<th><?php echo lang('Menu'); ?>(English)  </th>
+															<!--	<th><?php echo lang('Menu'); ?> (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) </th> -->
 															<th> Total Pieces </th>
 																<th class="hidden-480"> <?php echo lang('Remarks'); ?> </th>
 
@@ -196,7 +196,7 @@
 													<?php echo lang('New Record'); ?> 
 												</div> <br/>
 										<div class="form-group ">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Garment ID'); ?>  : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_id"> <?php echo lang('Menu ID'); ?>  : </label>
 
 											<div class="col-sm-9">
 												<input type="text" id="cloth_id" class="form-control" required readonly value="<?php echo $last_id+1; ?>" />
@@ -206,15 +206,15 @@
 										<div class="space-4"></div>
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Garment Name'); ?>  (English) : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  (English) : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="cloth_name" class="form-control" placeholder="Shirt,Pants,Trousher etc" required  autofocus/>
+												<input type="text" name="cloth_name" class="form-control" placeholder="Drink, Rice, Dessert, Pastry etc" required  autofocus/>
 											</div>
 										</div>
 										<!--
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Garment Name'); ?>  (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </label>
 
 											<div class="col-sm-9">
 												<input type="text" name="cloth_name_lang" class="form-control"  placeholder="<?php echo lang('cloth_placehold'); ?>" />

@@ -176,7 +176,7 @@ foreach ($garment_data as $row): ?>
 						<table  class="table table-hover small-text" id="tb">
 							<tr class="tr-header">
 
-							<th> <?php echo lang('Garment Name'); ?> </th>
+							<th> <?php echo lang('Food Type'); ?> </th>
 							<th><?php echo lang('Quantity'); ?> </th>
 							<!-- <th>Color</th> -->
 							<th><a href="javascript:void(0);" style="font-size:18px;" id="addMore" title="Add More Person"><span class="glyphicon glyphicon-plus"></span></a></th>

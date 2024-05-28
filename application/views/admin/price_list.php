@@ -82,7 +82,7 @@
 																<th class="hidden-480"> <?php echo lang('Image'); ?>  </th> 
 																<th class="hidden-480"> <?php echo lang('Short Code'); ?>  </th>
 																<th > <?php echo lang('Service Name'); ?>  </th>
-																<th> <?php echo lang('Garment Type'); ?>  </th>
+																<th> <?php echo lang('Food Type'); ?>  </th>
 																<th> <?php echo lang('Price'); ?>   </th>
 																
 																<th></th>
@@ -259,10 +259,10 @@
 										<!-- Choosen CLoths -->
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Garment Type'); ?>  : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  : </label>
 
 											<div class="col-sm-9" >
-												<select class="chosen-select form-control" name="cloth_name" id="cloth_name" data-placeholder="Choose a Garment Type..." required >
+												<select class="chosen-select form-control" name="cloth_name" id="cloth_name" data-placeholder="Choose a Food Type..." required >
 													<option value="">  </option>
 													<?php foreach ($laundry_cloth->result() as $clothrow): ?>
 														
