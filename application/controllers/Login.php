@@ -41,7 +41,7 @@ class Login extends CI_Controller {
 		}	
 		
 		$uresult = $this->login_model->get_user($UserName, $Password);	// admin login model
-		$store_result = $this->login_model->get_store($UserName, $Password);	// laundry store login model
+		$store_result = $this->login_model->get_store($UserName, $Password);	// Restaurant Store login model
 		
 		
 		if (count($uresult) > 0)
@@ -78,10 +78,10 @@ class Login extends CI_Controller {
 			}
 		}
 		elseif(count($store_result) > 0)		// Check Store Login	
-		{		//echo "welcome to laundry store";
+		{		//echo "welcome to Restaurant Store";
 				
 				
-					// Login Status Laundry Store Enable or Disable 
+					// Login Status Restaurant Store Enable or Disable 
 					
 					$this->db->where("show_hide='hide' AND (store_email = '$UserName' OR store_phone = '$UserName')");
 					
