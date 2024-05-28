@@ -78,7 +78,7 @@ $lang['Reports'] = 'Laporan';
 $lang['Settings'] = 'Pengaturan';
 	$lang['General Settings'] = 'Pengaturan Umum';
 	$lang['Language'] = 'Bahasa';
-	$lang['Laundry Stores'] = 'Toko Binatu';
+	$lang['Restaurant Stores'] = 'Toko Binatu';
 	$lang['Admin Profile'] = 'Profil Admin';
 	$lang['Change Password '] = 'Ganti kata sandi';
 	
@@ -105,7 +105,7 @@ $lang['Total Delivered'] = 'Total Disampaikan';
 $lang['Total Customers'] = 'Total Pelanggan';
 $lang['Today_Pickup'] = 'Pesanan Pengambilan Hari Ini';
 $lang['Invoice'] = 'Faktur';
-$lang['Laundry Store'] = 'Laundry Store';
+$lang['Restaurant Store'] = 'Restaurant Store';
 $lang['Customer Name'] = 'Toko Binatu';
 $lang['Pickup Date'] = 'Tanggal Penjemputan';
 $lang['Delivery Date'] = 'Tanggal pengiriman';
