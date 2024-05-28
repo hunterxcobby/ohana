@@ -51,7 +51,7 @@ $lang['Master'] = 'মনিব';
 	$lang['Expenses Type'] = 'খরচ প্রকার';
 	
 $lang['Menu'] = 'পোষাক';
-	$lang['Garment Type'] = 'গার্মেন্টস প্রকার';
+	$lang['Food Type'] = 'গার্মেন্টস প্রকার';
 	$lang['Garment Color'] = 'গার্মেন্টস রঙ';
 	$lang['Garment Brand'] = 'গার্মেন্টস ব্র্যান্ড';
 	$lang['Garment Defects'] = 'গার্মেন্টস ত্রুটি';
@@ -206,9 +206,9 @@ $lang['Expenses Type List'] = 'খরচ প্রকার তালিকা';
 /*************** Menu **********************/
 $lang['Garment'] = 'গার্মেন্টস';
 $lang['Garment Management'] = 'গার্মেন্টস ম্যানেজমেন্ট';
-$lang['Garment List'] = 'গার্মেন্টস তালিকা';
-$lang['Garment ID'] = 'গার্মেন্টস আইডি';
-$lang['Garment Name'] = 'গার্মেন্টস নাম';
+$lang['Menu List'] = 'গার্মেন্টস তালিকা';
+$lang['Menu ID'] = 'গার্মেন্টস আইডি';
+$lang['Food Type'] = 'গার্মেন্টস নাম';
 $lang['Garment Details'] = 'গার্মেন্টস বিবরণ';
 $lang['Colors List'] = 'রঙ তালিকা';
 $lang['Color ID'] = 'রঙ আইডি';
