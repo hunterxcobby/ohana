@@ -53,7 +53,7 @@ $lang['Master'] = 'মনিব';
 $lang['Menu'] = 'পোষাক';
 	$lang['Food Type'] = 'গার্মেন্টস প্রকার';
 	$lang['Garment Color'] = 'গার্মেন্টস রঙ';
-	$lang['Garment Brand'] = 'গার্মেন্টস ব্র্যান্ড';
+	$lang['Food Name'] = 'গার্মেন্টস ব্র্যান্ড';
 	$lang['Garment Defects'] = 'গার্মেন্টস ত্রুটি';
 	
 $lang['Services'] = 'সার্ভিস';
@@ -205,7 +205,7 @@ $lang['Expenses Type List'] = 'খরচ প্রকার তালিকা';
 
 /*************** Menu **********************/
 $lang['Garment'] = 'গার্মেন্টস';
-$lang['Garment Management'] = 'গার্মেন্টস ম্যানেজমেন্ট';
+$lang['Food Management'] = 'গার্মেন্টস ম্যানেজমেন্ট';
 $lang['Menu List'] = 'গার্মেন্টস তালিকা';
 $lang['Menu ID'] = 'গার্মেন্টস আইডি';
 $lang['Food Type'] = 'গার্মেন্টস নাম';
