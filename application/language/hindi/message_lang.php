@@ -53,7 +53,7 @@ $lang['Master'] = 'मास्टर ';
 $lang['Menu'] = 'गारमेंट्स';
 	$lang['Food Type'] = 'वस्त्र प्रकार';
 	$lang['Garment Color'] = 'वस्त्र रंग';
-	$lang['Garment Brand'] = 'वस्त्र ब्रांड';
+	$lang['Food Name'] = 'वस्त्र ब्रांड';
 	$lang['Garment Defects'] = 'वस्त्र दोष';
 	
 $lang['Services'] = 'सेवाएं';
@@ -198,7 +198,7 @@ $lang['Expenses Type List'] = 'व्यय प्रकार सूची';
 
 /*************** Menu **********************/
 $lang['Garment'] = 'गारमेंट्स';
-$lang['Garment Management'] = 'वस्त्र प्रबंधन';
+$lang['Food Management'] = 'वस्त्र प्रबंधन';
 $lang['Menu List'] = 'वस्त्र सूची';
 $lang['Menu ID'] = 'गारमेंट्स आई.डी.';
 $lang['Food Type'] = 'गारमेंट्स का नाम';

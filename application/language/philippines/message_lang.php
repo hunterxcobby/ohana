@@ -53,7 +53,7 @@ $lang['Master'] = 'Master';
 $lang['Menu'] = 'Mga damit';
 	$lang['Food Type'] = 'Uri ng Kasuotan';
 	$lang['Garment Color'] = 'Kulay ng Damit';
-	$lang['Garment Brand'] = 'Mga Garment Brand';
+	$lang['Food Name'] = 'Mga Food Name';
 	$lang['Garment Defects'] = 'Mga elemento ng damit';
 	
 $lang['Services'] = 'Mga Serbisyo';
@@ -205,7 +205,7 @@ $lang['Expenses Type List'] = 'Listahan ng Uri ng Gastos';
 
 /*************** Menu **********************/
 $lang['Garment'] = 'Mga damit';
-$lang['Garment Management'] = 'Pamamahala ng Mga Garment';
+$lang['Food Management'] = 'Pamamahala ng Mga Garment';
 $lang['Menu List'] = 'Mga damit List';
 $lang['Menu ID'] = 'ID ng damit';
 $lang['Food Type'] = 'Pangalan ng Dress';

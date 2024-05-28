@@ -48,7 +48,7 @@ foreach ($garment_data as $row): ?>
 		<?php if($ServiceUnit!="Kg") { ?>	
 		
 			<div class="well well-sm" style="background:#F5FFFA;margin-top:-12px;">
-				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Garment Brand'); ?>  : </h4>
+				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Food Name'); ?>  : </h4>
 				
 				
 				<table style="margin-top:10px;">
