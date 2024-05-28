@@ -51,7 +51,7 @@ $lang['Master'] = 'मास्टर ';
 	$lang['Expenses Type'] = 'व्यय प्रकार';
 	
 $lang['Menu'] = 'गारमेंट्स';
-	$lang['Garment Type'] = 'वस्त्र प्रकार';
+	$lang['Food Type'] = 'वस्त्र प्रकार';
 	$lang['Garment Color'] = 'वस्त्र रंग';
 	$lang['Garment Brand'] = 'वस्त्र ब्रांड';
 	$lang['Garment Defects'] = 'वस्त्र दोष';
@@ -199,9 +199,9 @@ $lang['Expenses Type List'] = 'व्यय प्रकार सूची';
 /*************** Menu **********************/
 $lang['Garment'] = 'गारमेंट्स';
 $lang['Garment Management'] = 'वस्त्र प्रबंधन';
-$lang['Garment List'] = 'वस्त्र सूची';
-$lang['Garment ID'] = 'गारमेंट्स आई.डी.';
-$lang['Garment Name'] = 'गारमेंट्स का नाम';
+$lang['Menu List'] = 'वस्त्र सूची';
+$lang['Menu ID'] = 'गारमेंट्स आई.डी.';
+$lang['Food Type'] = 'गारमेंट्स का नाम';
 $lang['Garment Details'] = 'गारमेंट्स का विवरण';
 $lang['Colors List'] = 'रंग सूची';
 $lang['Color ID'] = 'रंग आईडी';

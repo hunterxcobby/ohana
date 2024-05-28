@@ -51,7 +51,7 @@ $lang['Master'] = 'mestre';
 	$lang['Expenses Type'] = 'Tipo de despesas';
 	
 $lang['Menu'] = 'Vestuário';
-	$lang['Garment Type'] = 'Tipo de vestuário';
+	$lang['Food Type'] = 'Tipo de vestuário';
 	$lang['Garment Color'] = 'Cor de Vestuário';
 	$lang['Garment Brand'] = 'Marca de Vestuário';
 	$lang['Garment Defects'] = 'Defeitos de vestuário';
@@ -206,9 +206,9 @@ $lang['Expenses Type List'] = 'Lista de tipos de despesas';
 /*************** Menu **********************/
 $lang['Garment'] = 'Vestuário';
 $lang['Garment Management'] = 'Garment Management';
-$lang['Garment List'] = 'Lista de roupas';
-$lang['Garment ID'] = 'ID do vestuário';
-$lang['Garment Name'] = 'Nome do vestuário';
+$lang['Menu List'] = 'Lista de roupas';
+$lang['Menu ID'] = 'ID do vestuário';
+$lang['Food Type'] = 'Nome do vestuário';
 $lang['Garment Details'] = 'Detalhes da roupa';
 $lang['Colors List'] = 'Lista de cores';
 $lang['Color ID'] = 'ID de cor';

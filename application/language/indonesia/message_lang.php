@@ -51,7 +51,7 @@ $lang['Master'] = 'Menguasai';
 	$lang['Expenses Type'] = 'Jenis Biaya';
 	
 $lang['Menu'] = 'Pakaian';
-	$lang['Garment Type'] = 'Jenis pakaian';
+	$lang['Food Type'] = 'Jenis pakaian';
 	$lang['Garment Color'] = 'Warna Pakaian';
 	$lang['Garment Brand'] = 'Merek Pakaian';
 	$lang['Garment Defects'] = 'Merek Pakaian';
@@ -206,9 +206,9 @@ $lang['Expenses Type List'] = 'Daftar Jenis Beban';
 /*************** Menu **********************/
 $lang['Garment'] = 'Pakaian';
 $lang['Garment Management'] = 'Manajemen Pakaian';
-$lang['Garment List'] = 'Daftar Pakaian';
-$lang['Garment ID'] = 'Daftar Pakaian';
-$lang['Garment Name'] = 'Nama Pakaian';
+$lang['Menu List'] = 'Daftar Pakaian';
+$lang['Menu ID'] = 'Daftar Pakaian';
+$lang['Food Type'] = 'Nama Pakaian';
 $lang['Garment Details'] = 'Detail Pakaian';
 $lang['Colors List'] = 'Daftar Warna';
 $lang['Color ID'] = 'ID warna';
