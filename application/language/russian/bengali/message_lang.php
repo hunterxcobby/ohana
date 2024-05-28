@@ -210,13 +210,13 @@ $lang['Colors List'] = 'Color List';
 $lang['Color ID'] = 'Color ID';
 $lang['Color Name'] = 'Color Name';
 $lang['Brands List'] = 'Brand List';
-$lang['Brand ID'] = 'Brand ID';
-$lang['Brand Name'] = 'Brand Name';
+$lang['Food ID'] = 'Food ID';
+$lang['Food Name'] = 'Food Name';
 $lang['Defects List'] = 'Defect List';
 $lang['Defect ID'] = 'Defect ID';
 $lang['Defect Name'] = 'Defect Name';
 $lang['cloth_placehold'] = 'Drink, Rice, Dessert, Pastry etc';
-$lang['brand_placehold'] = 'Adidas, Raymond, Vimal etc';
+$lang['brand_placehold'] = 'Jollof Rice, Chicken, Pizza,  Banku etc';
 $lang['color_placehold'] = 'Red, Stripped Line etc';
 $lang['defect_placehold'] = 'Fabric, Loose Button etc';
 /************* End Menu ******************/
