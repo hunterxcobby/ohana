@@ -423,10 +423,10 @@ $logoutmsg=lang('Logoutmsg');
 								{ 
 								?> 
 							
-								<a href="<?php echo base_url();?>index.php/garment/gar_color">
+								<!-- <a href="<?php echo base_url();?>index.php/garment/gar_color">
 									<i class="menu-icon fa fa-caret-right"></i>
 									<?php echo lang('Garment Color'); ?> 
-								</a>
+								</a> -->
 
 								<b class="arrow"></b>
 								<?php } ?>
@@ -455,10 +455,10 @@ $logoutmsg=lang('Logoutmsg');
 								{ 
 								?> 
 							
-								<a href="<?php echo base_url();?>index.php/garment/gar_defect">
+								<!-- <a href="<?php echo base_url();?>index.php/garment/gar_defect">
 									<i class="menu-icon fa fa-caret-right"></i>
 									<?php echo lang('Garment Defects'); ?> 
-								</a>
+								</a> -->
 
 								<b class="arrow"></b>
 								<?php } ?>

@@ -214,13 +214,13 @@ $lang['Colors List'] = 'Lista de colores';
 $lang['Color ID'] = 'ID de color';
 $lang['Color Name'] = 'Nombre del color';
 $lang['Brands List'] = 'Lista de marcas';
-$lang['Brand ID'] = 'ID de marca';
-$lang['Brand Name'] = 'Nombre de la marca';
+$lang['Food ID'] = 'ID de marca';
+$lang['Food Name'] = 'Nombre de la marca';
 $lang['Defects List'] = 'Lista de defectos';
 $lang['Defect ID'] = 'ID de defecto';
 $lang['Defect Name'] = 'Nombre del defecto';
 $lang['cloth_placehold'] = 'Camisa, Pantalones, Trousher etc';
-$lang['brand_placehold'] = 'Adidas, Raymond, Vimal etc';
+$lang['brand_placehold'] = 'Jollof Rice, Chicken, Pizza,  Banku etc';
 $lang['color_placehold'] = 'Rojo, línea rayada, etc.';
 $lang['defect_placehold'] = 'Tela, botón suelto etc';
 /************* End Menu ******************/

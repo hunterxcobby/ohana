@@ -79,7 +79,7 @@
 																	</label>
 																</th>
 																<th><?php echo lang('Sr.No.'); ?> </th>
-																<th><?php echo lang('Brand Name'); ?> </th>
+																<th><?php echo lang('Food Name'); ?> </th>
 																<th><?php echo lang('Remarks'); ?> </th>
 
 																
@@ -178,7 +178,7 @@
 													<?php echo lang('New Record'); ?>  
 												</div> <br/>
 										<div class="form-group ">
-											<label class="col-sm-3 control-label no-padding-right" for="brand_id"> <?php echo lang('Brand ID'); ?>  : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="brand_id"> <?php echo lang('Food ID'); ?>  : </label>
 
 											<div class="col-sm-9">
 												<input type="text" id="brand_id" class="form-control" required readonly value="<?php echo $last_id+1; ?>" />
@@ -188,7 +188,7 @@
 										<div class="space-4"></div>
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="brand_name"> <?php echo lang('Brand Name'); ?>  : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="brand_name"> <?php echo lang('Food Name'); ?>  : </label>
 
 											<div class="col-sm-9">
 												<input type="text" name="brand_name" class="form-control" placeholder="<?php echo lang('brand_placehold'); ?>" required  autofocus/>
