@@ -53,7 +53,7 @@ $lang['Master'] = 'رئيس';
 $lang['Menu'] = 'الملابس';
 	$lang['Food Type'] = 'نوع الملابس';
 	$lang['Garment Color'] = 'لون الملابس';
-	$lang['Garment Brand'] = 'ماركة الملابس';
+	$lang['Food Name'] = 'ماركة الملابس';
 	$lang['Garment Defects'] = 'عيوب الملابس';
 	
 $lang['Services'] = 'خدمات';
@@ -205,7 +205,7 @@ $lang['Expenses Type List'] = 'قائمة نوع المصروفات';
 
 /*************** Menu **********************/
 $lang['Menu'] = 'الملابس';
-$lang['Garment Management'] = 'إدارة الملابس';
+$lang['Food Management'] = 'إدارة الملابس';
 $lang['Menu List'] = 'قائمة الملابس';
 $lang['Menu ID'] = 'معرف الملابس';
 $lang['Food Type'] = 'اسم الملابس';
