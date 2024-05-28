@@ -53,7 +53,7 @@ $lang['Master'] = 'Master';
 $lang['Menu'] = 'Menu';
 	$lang['Food Type'] = 'Food Type';
 	$lang['Garment Color'] = 'Garment Color';
-	$lang['Garment Brand'] = 'Garment Brand';
+	$lang['Food Name'] = 'Food Name';
 	$lang['Garment Defects'] = 'Garment Defects';
 	
 $lang['Services'] = 'Services';
@@ -214,7 +214,7 @@ $lang['Expenses Type List'] = 'Expenses Type List';
 
 /*************** Menu **********************/
 $lang['Garment'] = 'Garment';
-$lang['Garment Management'] = 'Garment Management';
+$lang['Food Management'] = 'Food Management';
 $lang['Menu List'] = 'Menu List';
 $lang['Menu ID'] = 'Menu ID';
 $lang['Food Type'] = 'Food Type';
