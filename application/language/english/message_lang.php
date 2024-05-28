@@ -79,7 +79,7 @@ $lang['Reports'] = 'Reports';
 $lang['Settings'] = 'Settings';
 	$lang['General Settings'] = 'General Settings';
 	$lang['Language'] = 'Language';
-	$lang['Laundry Stores'] = 'Laundry Stores';
+	$lang['Restaurant Stores'] = 'Restaurant Stores';
 	$lang['Admin Profile'] = 'Admin Profile';
 	$lang['Change Password '] = 'Change Password';
 	
@@ -106,7 +106,7 @@ $lang['Total Delivered'] = 'Total Delivered';
 $lang['Total Customers'] = 'Total Customers';
 $lang['Today_Pickup'] = 'Today Pickup Orders';
 $lang['Invoice'] = 'Invoice';
-$lang['Laundry Store'] = 'Laundry Store';
+$lang['Restaurant Store'] = 'Restaurant Store';
 $lang['Customer Name'] = 'Customer Name';
 $lang['Pickup Date'] = 'Pickup Date';
 $lang['Delivery Date'] = 'Delivery Date';
