@@ -6,7 +6,7 @@ class Garment extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8767228990
 	 *	date		: 15 April, 2018
-	 *	Laundry Management Application (Menu)
+	 *	Restaurant Management Application (Menu)
 	 *	rpcits2013@gmail.com
 	*/
  

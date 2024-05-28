@@ -6,7 +6,7 @@ class Login extends CI_Controller {
 	/*
 	 *	@author 	: Ajit Dhanawade / 8108702999
 	 *	date		: 07 June, 2017
-	 *	Laundry Management Application (Login Model)
+	 *	Restaurant Management Application (Login Model)
 	 *	ajitrajyash@gmail.com
 	*/
  

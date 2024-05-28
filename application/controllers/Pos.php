@@ -6,7 +6,7 @@ class Pos extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8108702999
 	 *	date		: 27 Feb, 2018
-	 *	Laundry Management Application (Quick PoS)
+	 *	Restaurant Management Application (Quick PoS)
 	 *	rpcits2013@gmail.com
 	*/
  

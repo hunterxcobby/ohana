@@ -6,7 +6,7 @@ class Package extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8767228990
 	 *	date		: 08 February, 2019
-	 *	Laundry Management Application (Customer Packages)
+	 *	Restaurant Management Application (Customer Packages)
 	 *	rpcits2013@gmail.com
 	*/
  
