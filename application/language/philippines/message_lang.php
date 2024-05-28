@@ -78,7 +78,7 @@ $lang['Reports'] = 'Mga Ulat';
 $lang['Settings'] = 'Mga Setting';
 	$lang['General Settings'] = 'Pangkalahatang mga Setting';
 	$lang['Language'] = 'Wika';
-	$lang['Laundry Stores'] = 'Mga Tindahan ng Labahan';
+	$lang['Restaurant Stores'] = 'Mga Tindahan ng Labahan';
 	$lang['Admin Profile'] = 'Profile ng Admin';
 	$lang['Change Password '] = 'Palitan ANG password';
 	
@@ -105,7 +105,7 @@ $lang['Total Delivered'] = 'Kabuuang Naihatid';
 $lang['Total Customers'] = 'Kabuuang Mga Customer';
 $lang['Today_Pickup'] = 'Today Pickup';
 $lang['Invoice'] = 'Invoice';
-$lang['Laundry Store'] = 'Laundry Store';
+$lang['Restaurant Store'] = 'Restaurant Store';
 $lang['Customer Name'] = 'Pangalan ng Customer';
 $lang['Pickup Date'] = 'Pickup Date';
 $lang['Delivery Date'] = 'Petsa ng paghahatid';
