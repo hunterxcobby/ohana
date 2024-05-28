@@ -78,7 +78,7 @@ $lang['Reports'] = 'Rapports';
 $lang['Settings'] = 'Réglages';
 	$lang['General Settings'] = 'réglages généraux';
 	$lang['Language'] = 'La langue';
-	$lang['Laundry Stores'] = 'Magasins de blanchisserie';
+	$lang['Restaurant Stores'] = 'Magasins de blanchisserie';
 	$lang['Admin Profile'] = 'Profil administrateur';
 	$lang['Change Password '] = 'Changer le mot de passe';
 	
@@ -105,7 +105,7 @@ $lang['Total Delivered'] = 'Total livré';
 $lang['Total Customers'] = 'Total clients';
 $lang['Today_Pickup'] = 'Commandes de ramassage aujourd\'hui';
 $lang['Invoice'] = 'Facture d\'achat';
-$lang['Laundry Store'] = 'Magasin de blanchisserie';
+$lang['Restaurant Store'] = 'Magasin de blanchisserie';
 $lang['Customer Name'] = 'Nom du client';
 $lang['Pickup Date'] = 'Date de ramassage';
 $lang['Delivery Date'] = 'Date de livraison';
