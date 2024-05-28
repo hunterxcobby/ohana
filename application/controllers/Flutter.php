@@ -6,7 +6,7 @@ class Flutter extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers / 8767228990
 	 *	date		: 29 Mar, 2022
-	 *	Laundry Management Application / Al Hayat Laundry UAE
+	 *	Restaurant Management Application / Al Hayat Laundry UAE
 	 *	info@redplanetcomputers.com
 	*/
  

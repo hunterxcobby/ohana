@@ -6,7 +6,7 @@ class Employee extends CI_Controller {
 	/*
 	 *	@author 	: Ajit Dhanawade / 8108702999
 	 *	date		: 24 July, 2017
-	 *	Laundry Management Application
+	 *	Restaurant Management Application
 	 *	ajitrajyash@gmail.com
 	*/
  

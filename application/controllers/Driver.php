@@ -7,7 +7,7 @@ class Driver extends CI_Controller {
 	/*
 	 *	@author 	: Red Planet Computers Team / 8767228990
 	 *	date		: 09 August 2020
-	 *	Laundry Management Application (Mobile Driver UI Kit )
+	 *	Restaurant Management Application (Mobile Driver UI Kit )
 	 *	rpcits2013@gmail.com
 	*/
  

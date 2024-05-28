@@ -6,7 +6,7 @@ class Dbase extends CI_Controller {
 	/*
 	 *	@author 	: Ajit Dhanawade / 8108702999
 	 *	date		: 04 Jan, 2017
-	 *	Laundry Management Application (Database Bacakup Model)
+	 *	Restaurant Management Application (Database Bacakup Model)
 	 *	ajitrajyash@gmail.com
 	*/
  

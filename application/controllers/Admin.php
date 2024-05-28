@@ -6,7 +6,7 @@ class Admin extends CI_Controller {
 	/*
 	 *	@author 	: Ajit Dhanawade / 8108702999
 	 *	date		: 30 May, 2017
-	 *	Laundry Management Application
+	 *	Restaurant Management Application
 	 *	ajitrajyash@gmail.com
 	*/
  
