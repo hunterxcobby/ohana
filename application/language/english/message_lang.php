@@ -59,7 +59,7 @@ $lang['Menu'] = 'Menu';
 $lang['Services'] = 'Services';
 $lang['Service'] = 'Services';
 	$lang['Services'] = 'Services';
-	$lang['Price List'] = 'Laundry Price List';
+	$lang['Price List'] = 'Price List';
 	$lang['Discount/Charges'] = 'Discount/Charges';
 	$lang['Promo / Coupons'] = 'Promo / Coupons';
 		
