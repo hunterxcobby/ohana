@@ -78,7 +78,7 @@ $lang['Reports'] = 'रिपोर्ट';
 $lang['Settings'] = 'सेटिंग्स';
 	$lang['General Settings'] = 'सामान्य सेटिंग्स';
 	$lang['Language'] = 'भाषा';
-	$lang['Laundry Stores'] = 'लॉन्ड्री स्टोर';
+	$lang['Restaurant Stores'] = 'लॉन्ड्री स्टोर';
 	$lang['Admin Profile'] = 'व्यवस्थापक प्रोफ़ाइल';
 	$lang['Change Password '] = 'पासवर्ड बदलें';
 	
