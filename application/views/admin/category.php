@@ -199,7 +199,7 @@
 											<label class="col-sm-3 control-label no-padding-right" for="service_name"> Service Name : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="category_name" class="form-control" placeholder="MEN, WOMEN, KIDS, HOUSEHOLD etc" required  autofocus/>
+												<input type="text" name="category_name" class="form-control" placeholder=" GENERAL etc" required  autofocus/>
 											</div>
 										</div>
 										
