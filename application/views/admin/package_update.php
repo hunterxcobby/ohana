@@ -20,10 +20,11 @@
 				<div class="col-sm-9">
 					<select class="form-control" name="category" id="category" required >
 						<option value=""> --Select-- </option>
-						<option value="wash_press" <?php if($row->category=='wash_press') echo "selected";?> >Wash & Press </option>
-						<option value="wash_steam" <?php if($row->category=='wash_steam') echo "selected";?>>Wash & Steam </option>
-						<option value="dry_clean" <?php if($row->category=='dry_clean') echo "selected";?>>Dry Clean</option>
-						<option value="others" <?php if($row->category=='others') echo "selected";?> >Others</option>
+						<option value="breakfast" <?php if($row->category=='breakfast') echo "selected";?> >Breakfast</option>
+						<option value="lunch" <?php if($row->category=='lunch') echo "selected";?>>Lunch</option>
+						<option value="dinner" <?php if($row->category=='dinner') echo "selected";?>>Dinner</option>
+						<option value="dessert" <?php if($row->category=='dessert') echo "selected";?> >Dessert</option>
+						<option value="dessert" <?php if($row->category=='dessert') echo "selected";?> >Other</option>
 					</select>
 				</div>
 				
