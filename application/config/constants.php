@@ -84,7 +84,7 @@ defined('EXIT_DATABASE')       OR define('EXIT_DATABASE', 8); // database error
 defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automatically-assigned error code
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 define('INVOICE_NAME', 'RPL')  OR define('INVOICE_NAME', 'RPL'); // here write your short invoice name you want.
-define('STORENAME', 'Red Planet Laundry')  OR define('STORENAME', 'Red Planet Laundry'); // here write your short store
+define('STORENAME', 'Ohana Restaurant')  OR define('STORENAME', 'Ohana Restaurant'); // here write your short store
 
 define('SOURCE', 'suham/')     OR define('SOURCE', 'suham/');		// mobile ui source name 
 define('MINORDERAMT', '200')   OR define('MINORDERAMT', '200');
