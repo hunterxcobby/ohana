@@ -30,7 +30,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = 'https://laundry.redplanetcomputers.com/app/';
 
-$config['base_url'] = 'http://localhost/laundry/';
+$config['base_url'] = 'http://localhost/ohana/';
 /*
 |--------------------------------------------------------------------------
 | Index File
