@@ -216,10 +216,11 @@
 											<div class="col-sm-9">
 												<select class="form-control" name="category" id="category" required >
 													<option value=""> --Select-- </option>
-													<option value="wash_press" >Wash & Press </option>
-													<option value="wash_steam">Wash & Steam </option>
-													<option value="dry_clean">Dry Clean</option>
-													<option value="others">Others</option>
+													<option value="breakfast" <?php if($row->category=='breakfast') echo "selected";?> >Breakfast</option>
+													<option value="lunch" <?php if($row->category=='lunch') echo "selected";?>>Lunch</option>
+													<option value="dinner" <?php if($row->category=='dinner') echo "selected";?>>Dinner</option>
+													<option value="dessert" <?php if($row->category=='dessert') echo "selected";?> >Dessert</option>
+													<option value="dessert" <?php if($row->category=='dessert') echo "selected";?> >Other</option>
 												</select>
 											</div>
 											
@@ -243,9 +244,9 @@
 
 											<div class="col-sm-9">
 												<select class="form-control" name="pkg_unit" id="pkg_unit" required >
-													<option value="Quantity" >Quantity </option>
-													<option value="Kg">Kilo-Gram </option>
-													<option value="Costumes">Costumes</option>
+													<option value="Plate" >Plate </option>
+													<option value="Bowl">Bowl </option>
+													<option value="Glass">Glass</option>
 												</select>
 											</div>
 										</div>
