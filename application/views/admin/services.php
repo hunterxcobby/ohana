@@ -218,7 +218,7 @@
 											<label class="col-sm-3 control-label no-padding-right" for="service_name"> <?php echo lang('Service Name'); ?>  (English) : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="service_name" class="form-control" placeholder="DRY CLEANING,STEAM IRONING, WASH & FOLD, WASH & IRON etc" required  autofocus/>
+												<input type="text" name="service_name" class="form-control" placeholder="TAKEOUT, DELIVERY, DINE IN, EVENT CATERING, OFFICE CATERING etc" required  autofocus/>
 											</div>
 										</div>
 										<!--
