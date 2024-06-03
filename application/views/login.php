@@ -122,7 +122,7 @@ $this->session->set_userdata('site_lang', $language);
 											
 										</div><!-- /.widget-main -->
 
-										<div class="toolbar clearfix">
+										<div class="toolbar clearfix" style="background-color: orange;">
 											<div>
 												<a href="/" class="forgot-password-link">
 													<i class="ace-icon fa fa-arrow-left"></i>
@@ -186,7 +186,7 @@ $this->session->set_userdata('site_lang', $language);
 							<span class="">
 								<div class="space-6"></div>
 								<center>
-								<span class="blue bolder"> <?php echo 'Restaurant Management System &copy 2017 - '.date('Y'); ?> <a href="https://redplanetcomputers.com" target="_blank"> <br/> <span style='color:red;'> Red Planet Computers Private Limited. </span> </a>
+								<span class="blue bolder"> <?php echo 'Restaurant Management System &copy 2017 - '.date('Y'); ?> <a href="https://github.com/hunterxcobby" target="_blank"> <br/> <span style='color:red;'> Github Account </span> </a>
 							</center> 
 							</span>
 							
