@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"><?php echo lang('Garment'); ?></a>
 				</li>
-				<li class="active"><?php echo lang('Garment Color'); ?> </li>
+				<!-- <li class="active"><?php echo lang('Garment Color'); ?> </li> -->
 			</ul><!-- /.breadcrumb -->
 
 			<a href="#" style="float:right;" title="Help"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>
@@ -17,7 +17,7 @@
 			
 			<div class="page-header ">
 				<h1 class="hidden-480" >
-					<?php echo lang('Garment'); ?> 
+					<?php echo lang('Menu'); ?> 
 					<small>
 						<i class="ace-icon fa fa-angle-double-right"></i>
 						<?php echo lang('Food Management'); ?> 
