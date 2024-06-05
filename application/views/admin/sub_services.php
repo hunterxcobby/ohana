@@ -218,7 +218,7 @@
 											<label class="col-sm-3 control-label no-padding-right" for="service_name"> Service Name (English) : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="service_name" class="form-control" placeholder="GENERAL ETC" required  autofocus/>
+												<input type="text" name="service_name" class="form-control" placeholder="Breakfast, Lunch, Dinner, Dessert, etc" required  autofocus/>
 											</div>
 										</div>
 										
