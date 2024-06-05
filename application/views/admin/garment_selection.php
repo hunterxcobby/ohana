@@ -72,13 +72,13 @@ foreach ($garment_data as $row): ?>
 		   </div>		
 		   
 			<div class="well well-sm" style="background:#F5FFFA;margin-top:-12px;">
-				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Garment Defects'); ?>  : </h4>
+				<!-- <h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Garment Defects'); ?>  : </h4> -->
 				
 				
 				<table style="margin-top:10px;">
 				<tr> 
-					<td style="padding:10px;"> <input name="gar_defects" value="" type="radio" class="ace" checked />
-				<span class="lbl"> <?php echo lang('None'); ?>  </span>
+					<!-- <td style="padding:10px;"> <input name="gar_defects" value="" type="radio" class="ace" checked /> -->
+				<!-- <span class="lbl"> <?php echo lang('None'); ?>  </span> -->
 					</td>
 					<?php
 					$GarmentDefects=$this->db->get('garment_defect');
@@ -99,13 +99,13 @@ foreach ($garment_data as $row): ?>
 			
 			
 			<div class="well well-sm" style="background:#F5FFFA;margin-top:-12px;">
-				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Garment Color'); ?>  : </h4>
+				<!-- <h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Garment Color'); ?>  : </h4> -->
 				
 				<table style="margin-top:10px;">
 
 				<tr> 
-					<td style="padding:10px;"> <input name="gar_color" value="" type="radio" class="ace" checked />
-				<span class="lbl"> <?php echo lang('None'); ?>  </span>
+					<!-- <td style="padding:10px;"> <input name="gar_color" value="" type="radio" class="ace" checked /> -->
+				<!-- <span class="lbl"> <?php echo lang('None'); ?>  </span> -->
 					</td>
 					<?php
 					$GarmentColors=$this->db->get('garment_color');
