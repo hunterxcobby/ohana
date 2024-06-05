@@ -15,7 +15,7 @@
 			<div class="space-4"></div>
 			
 			<div class="form-group">
-				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Name'); ?>  : </label>
+				<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  : </label>
 
 				<div class="col-sm-9">
 					<input type="text" name="brand_name" class="form-control" value="<?php echo $row->brand_name ;?>" required  autofocus />

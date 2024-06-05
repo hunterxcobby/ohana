@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"><?php echo lang('Menu'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Food Type'); ?>  </li>
+				<li class="active"><?php echo lang('Food Name'); ?>  </li>
 			</ul><!-- /.breadcrumb -->
 
 			<a href="<?php echo $helppath;?>" style="float:right;" title="Help" target="_blank"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>
@@ -206,15 +206,15 @@
 										<div class="space-4"></div>
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  (English) : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Name'); ?>  (English) : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="cloth_name" class="form-control" placeholder="Drink, Rice, Dessert, Pastry etc" required  autofocus/>
+												<input type="text" name="cloth_name" class="form-control" placeholder="Jollof, Banku, Fufu, Waakye etc" required  autofocus/>
 											</div>
 										</div>
 										<!--
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Type'); ?>  (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="cloth_name"> <?php echo lang('Food Name'); ?>  (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>) : </label>
 
 											<div class="col-sm-9">
 												<input type="text" name="cloth_name_lang" class="form-control"  placeholder="<?php echo lang('cloth_placehold'); ?>" />

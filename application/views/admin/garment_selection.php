@@ -48,7 +48,7 @@ foreach ($garment_data as $row): ?>
 		<?php if($ServiceUnit!="Kg") { ?>	
 		
 			<div class="well well-sm" style="background:#F5FFFA;margin-top:-12px;">
-				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Food Name'); ?>  : </h4>
+				<h4 class="gray" style="border:1px solid lightgray; padding:5px; margin:-10px;background:#E8F8F5; "> <?php echo lang('Food Type'); ?>  : </h4>
 				
 				
 				<table style="margin-top:10px;">
@@ -144,7 +144,7 @@ foreach ($garment_data as $row): ?>
 						<table  class="table table-hover small-text" id="tb">
 							<tr class="tr-header">
 
-							<th> <?php echo lang('Food Type'); ?>  </th>
+							<th> <?php echo lang('Food Name'); ?>  </th>
 							<th><?php echo lang('Quantity'); ?> </th>
 							<!-- <th>Color</th> -->
 							<th><a href="javascript:void(0);" style="font-size:18px;" id="addMore" title="<?php echo lang('add more'); ?>"><span class="glyphicon glyphicon-plus"></span></a></th>

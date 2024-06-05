@@ -196,10 +196,10 @@
 										<div class="space-4"></div>
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="service_name"> Service Name : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="service_name"> Category Name : </label>
 
 											<div class="col-sm-9">
-												<input type="text" name="category_name" class="form-control" placeholder=" GENERAL etc" required  autofocus/>
+												<input type="text" name="category_name" class="form-control" placeholder=" Breakfast, Lunch, Dinner, Dessert, etc" required  autofocus/>
 											</div>
 										</div>
 										

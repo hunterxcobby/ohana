@@ -110,7 +110,7 @@ class Pos extends CI_Controller {
 						'color' => filter_input(INPUT_POST, 'gar_color'),			// product color
 						'brand' => filter_input(INPUT_POST, 'gar_brands'),			// product brand
 						'unit' => filter_input(INPUT_POST, 'gar_unit'),			// product unit
-						'kgitem' => $GarmentKgName,			// product Food Types
+						'kgitem' => $GarmentKgName,			// product Food Names
 						'kgqty' => $GarmentKgQty		// product Gament Qty
 						
 						

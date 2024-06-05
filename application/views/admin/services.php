@@ -82,7 +82,7 @@
 																<th class="hidden-480"> <?php echo lang('Image'); ?>  </th> 
 																<th><?php echo lang('Service Name'); ?>  (English) </th>
 															<!--	<th><?php echo lang('Service Name'); ?>  (<?php echo ucwords($this->db->get_where('settings' , array('id' =>'1'))->row()->sys_lang); ?>)</th> -->
-															<!--	<th>Category Unit </th> -->
+																<th>Category Unit </th>
 																
 																<th> <?php echo lang('Description'); ?> </th>
 																<th> <?php echo lang('Show/Hide'); ?> </th>

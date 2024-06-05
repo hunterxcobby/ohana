@@ -51,9 +51,9 @@ $lang['Master'] = 'Dominar';
 	$lang['Expenses Type'] = 'Tipo de gastos';
 	
 $lang['Menu'] = 'paño';
-	$lang['Food Type'] = 'Tipo de ropa';
+	$lang['Food Name'] = 'Tipo de ropa';
 	$lang['Garment Color'] = 'Color de la ropa';
-	$lang['Food Name'] = 'Marca de ropa';
+	$lang['Food Type'] = 'Marca de ropa';
 	$lang['Garment Defects'] = 'Defectos de la ropa';
 	
 $lang['Services'] = 'Servicios';
@@ -208,19 +208,19 @@ $lang['Garment'] = 'Prenda';
 $lang['Food Management'] = 'Vestidos';
 $lang['Menu List'] = 'Lista de ropa';
 $lang['Menu ID'] = 'ID de la ropa';
-$lang['Food Type'] = 'Nombre de la prenda.';
+$lang['Food Name'] = 'Nombre de la prenda.';
 $lang['Garment Details'] = 'Detalles de la ropa';
 $lang['Colors List'] = 'Lista de colores';
 $lang['Color ID'] = 'ID de color';
 $lang['Color Name'] = 'Nombre del color';
 $lang['Brands List'] = 'Lista de marcas';
 $lang['Food ID'] = 'ID de marca';
-$lang['Food Name'] = 'Nombre de la marca';
+$lang['Food Type'] = 'Nombre de la marca';
 $lang['Defects List'] = 'Lista de defectos';
 $lang['Defect ID'] = 'ID de defecto';
 $lang['Defect Name'] = 'Nombre del defecto';
 $lang['cloth_placehold'] = 'Camisa, Pantalones, Trousher etc';
-$lang['brand_placehold'] = 'Jollof Rice, Chicken, Pizza,  Banku etc';
+$lang['brand_placehold'] = 'Dessert, Pastry, Drink, Cereal etc';
 $lang['color_placehold'] = 'Rojo, línea rayada, etc.';
 $lang['defect_placehold'] = 'Tela, botón suelto etc';
 /************* End Menu ******************/

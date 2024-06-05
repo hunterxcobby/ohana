@@ -7,7 +7,7 @@
 					<i class="ace-icon fa fa-home home-icon"></i>
 					<a href="#"><?php echo lang('Garment'); ?> </a>
 				</li>
-				<li class="active"><?php echo lang('Food Name'); ?> </li>
+				<li class="active"><?php echo lang('Food Type'); ?> </li>
 			</ul><!-- /.breadcrumb -->
 			
 			<a href="#" style="float:right;" title="Help"> <i class="ace-icon fa fa-question-circle bigger-160"></i> </a>	
@@ -79,7 +79,7 @@
 																	</label>
 																</th>
 																<th><?php echo lang('Sr.No.'); ?> </th>
-																<th><?php echo lang('Food Name'); ?> </th>
+																<th><?php echo lang('Food Type'); ?> </th>
 																<th><?php echo lang('Remarks'); ?> </th>
 
 																
@@ -188,7 +188,7 @@
 										<div class="space-4"></div>
 										
 										<div class="form-group">
-											<label class="col-sm-3 control-label no-padding-right" for="brand_name"> <?php echo lang('Food Name'); ?>  : </label>
+											<label class="col-sm-3 control-label no-padding-right" for="brand_name"> <?php echo lang('Food Type'); ?>  : </label>
 
 											<div class="col-sm-9">
 												<input type="text" name="brand_name" class="form-control" placeholder="<?php echo lang('brand_placehold'); ?>" required  autofocus/>

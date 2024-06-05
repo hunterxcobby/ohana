@@ -29,7 +29,7 @@ class Garment extends CI_Controller {
 		
 	}
 	
-	// Food Name Controller ==>
+	// Food Type Controller ==>
 	
 	function gar_brand()
 	{	if ($this->session->userdata('admin_login') == 0) redirect('login/logout');

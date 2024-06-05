@@ -51,9 +51,9 @@ $lang['Master'] = 'Master';
 	$lang['Expenses Type'] = 'Expenses Type';
 	
 $lang['Menu'] = 'Menu';
-	$lang['Food Type'] = 'Food Type';
-	$lang['Garment Color'] = 'Garment Color';
 	$lang['Food Name'] = 'Food Name';
+	$lang['Garment Color'] = 'Garment Color';
+	$lang['Food Type'] = 'Food Type';
 	$lang['Garment Defects'] = 'Garment Defects';
 	
 $lang['Services'] = 'Services';
@@ -217,19 +217,19 @@ $lang['Garment'] = 'Garment';
 $lang['Food Management'] = 'Food Management';
 $lang['Menu List'] = 'Menu List';
 $lang['Menu ID'] = 'Menu ID';
-$lang['Food Type'] = 'Food Type';
+$lang['Food Name'] = 'Food Name';
 $lang['Garment Details'] = 'Garment Details';
 $lang['Colors List'] = 'Color List';
 $lang['Color ID'] = 'Color ID';
 $lang['Color Name'] = 'Color Name';
 $lang['Brands List'] = 'Brand List';
 $lang['Food ID'] = 'Food ID';
-$lang['Food Name'] = 'Food Name';
+$lang['Food Type'] = 'Food Type';
 $lang['Defects List'] = 'Defect List';
 $lang['Defect ID'] = 'Defect ID';
 $lang['Defect Name'] = 'Defect Name';
-$lang['cloth_placehold'] = 'Drink, Rice, Dessert, Pastry etc';
-$lang['brand_placehold'] = 'Jollof Rice, Chicken, Pizza,  Banku etc';
+$lang['cloth_placehold'] = 'Jollof, Banku, Fufu, Waakye etc';
+$lang['brand_placehold'] = 'Dessert, Pastry, Drink, Cereal etc';
 $lang['color_placehold'] = 'Red, Stripped Line etc';
 $lang['defect_placehold'] = 'Fabric, Loose Button etc';
 /************* End Menu ******************/
